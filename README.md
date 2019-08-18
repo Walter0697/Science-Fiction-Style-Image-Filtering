@@ -14,6 +14,9 @@
 ## Dev Blog:
 - https://walterpakwai.wixsite.com/sci-fi-filtering
 
+## Code documentation:
+- https://walterpakwai.wixsite.com/sci-fi-filtering/post/10-code
+
 ## How to use:
 - For more details on what the function is trying to achieve, see dev blog to know more
 - Most of the variables you need to adjust will be in the main function
